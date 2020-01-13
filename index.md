@@ -1,4 +1,23 @@
-## Teste
+# Teste
+
+## Imprimir
+print("Olá, mundo!")
+// Imprime "Olá, mundo!"
+
+## Variáveis e Constantes
+
+### Declarar
+var minhaVariavel
+let minhaConstante
+
+### Declarar e Inicializar
+var minhaVariavel = 10
+let minhaConstante = 10
+
+### Atribuir novo valor
+minha variavel = 20
+
+
 
 You can use the [editor on GitHub](https://github.com/douglasdl/Swift-5/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
